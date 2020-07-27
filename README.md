@@ -3,4 +3,4 @@ By using the cocept of Reverse Shell, we can access any remote system and  can  
 
 note:
 
-If we open a some other application from terminal like I executed "nano" in remote terminal window, then this terminates the connection.
+If we open some other application from terminal like I executed "nano" in remote terminal window, then this terminates the connection.
